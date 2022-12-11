@@ -2,7 +2,7 @@
 
 <br>
 
-Hi, I'm [Anshul Garg](https://www.linkedin.com/in/lholmes12/), a Full Stack Web Developer, Experienced Software Engineer. Skilled in Building Applications, Designing Core Services, Cisco Networking, Web Application Security, Scripting, Management and Marketing. Strong education professional with a Bachelor's degree majored in Computer Science from Thapar Institute of Engineering and Technology.
+Hi, I'm [Anshul Garg](https://www.linkedin.com/in/LHolmes0/), a Full Stack Web Developer, Experienced Software Engineer. Skilled in Building Applications, Designing Core Services, Cisco Networking, Web Application Security, Scripting, Management and Marketing. Strong education professional with a Bachelor's degree majored in Computer Science from Thapar Institute of Engineering and Technology.
 
 WhoAmI> 
 A problem solver at heart, currently working as a Python Developer. I am experienced in designing and developing backend services
@@ -48,7 +48,7 @@ Keen to take up challenging work and deliver quality.
   <a href="https://leetcode.com/lholmes_0000/">
     <img src="https://raw.githubusercontent.com/LHolmes0/LHolmes0/master/Resources/svg/leetcode.svg" target="_blank" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lholmes12/">
+  <a href="https://www.linkedin.com/in/LHolmes0/">
     <img src="https://raw.githubusercontent.com/LHolmes0/LHolmes0/master/Resources/svg/linkedin.svg" target="_blank" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/l_h0lmes/">
