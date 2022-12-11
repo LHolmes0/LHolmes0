@@ -2,8 +2,13 @@
 
 <br>
 
-Hi, I'm [Anshul Garg](https://www.linkedin.com/in/lholmes12/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+Hi, I'm [Anshul Garg](https://www.linkedin.com/in/lholmes12/), a Full Stack Web Developer, Experienced Software Engineer. Skilled in Building Applications, Designing Core Services, Cisco Networking, Web Application Security, Scripting, Management and Marketing. Strong education professional with a Bachelor's degree majored in Computer Science from Thapar Institute of Engineering and Technology.
+
+WhoAmI> 
+A problem solver at heart, currently working as a Python Developer. I am experienced in designing and developing backend services
+I am seeking opportunities to work in a high pace, high-energy environment. 
+Keen to take up challenging work and deliver quality.
+
 
 <br>
 
