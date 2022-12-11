@@ -37,14 +37,18 @@ I support Manchester United 👿 and Barcelona 😎.
 ---
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://leetcode.com/lholmes_0000/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/lholmes2017">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/LHolmes0/LHolmes0/master/Resources/svg/hackerrank.svg" target="_blank" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lholmes12/" target="_blank"><img height="30" src="Resources/png/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/l_h0lmes/" target="_blank"><img height="30" src="Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/lholmes_0000/">
+    <img src="https://raw.githubusercontent.com/LHolmes0/LHolmes0/master/Resources/svg/leetcode.svg" target="_blank" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lholmes12/">
+    <img src="https://raw.githubusercontent.com/LHolmes0/LHolmes0/master/Resources/svg/linkedin.svg" target="_blank" alt="linkedin" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/l_h0lmes/">
+    <img src="https://raw.githubusercontent.com/LHolmes0/LHolmes0/master/Resources/svg/instagram.svg" target="_blank" alt="instagram" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
   </p>
 </p>
 
@@ -55,7 +59,7 @@ I support Manchester United 👿 and Barcelona 😎.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LHolmes0&show_icons=true&theme=transparent&count_private=true" />
 
 </br>
-
+<br>
 <a href="https://github.com/LHolmes0/swiftlypython" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LHolmes0&repo=swiftlypython&theme=transparent" />
 </a>
